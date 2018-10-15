@@ -7,7 +7,7 @@
  * Time: 10:57
  */
 
-namespace src;
+namespace src\Laptop;
 
 class Laptop
 {

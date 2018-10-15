@@ -7,7 +7,7 @@
  * Time: 10:18
  */
 
-use src\Laptop;
+use src\Laptop\Laptop;
 use PHPUnit\Framework\TestCase;
 
 class LaptopTest extends TestCase
